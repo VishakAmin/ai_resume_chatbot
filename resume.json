@@ -1,0 +1,156 @@
+{
+  "name": "Vishak Amin",
+  "title": "Full Stack Engineer",
+  "summary": "Full Stack Engineer with 5+ years of experience building fast, reliable, and maintainable applications across fintech and SaaS platforms. Strong focus on frontend architecture, component design, and shipping production-grade systems under pressure.",
+  "experience": [
+    {
+      "company": "Turing Labs",
+      "role": "Lead Frontend Engineer",
+      "duration": "Jun 2020 – Present",
+      "location": "Remote - India",
+      "responsibilities": [
+        "Led design and development of dashboard tools for a revenue intelligence platform used by 100+ clients globally.",
+        "Built reusable UI components using React, TypeScript, and TailwindCSS with Storybook documentation.",
+        "Worked closely with product and data teams to integrate analytics and telemetry using Segment and Mixpanel.",
+        "Implemented SSR with Next.js for marketing pages and onboarding flows.",
+        "Owned CI/CD with GitHub Actions, Docker, and Vercel deployments.",
+        "Maintained 80% test coverage with RTL and Playwright, ensuring performance across browsers."
+      ],
+      "achievements": [
+        "Reduced initial page load time by 45% using bundle splitting and lazy hydration.",
+        "Standardized design tokens across 3 micro frontends for consistent UI.",
+        "Launched 3 new modules in 6 months with zero post-release regressions."
+      ]
+    },
+    {
+      "company": "SAP Labs India",
+      "role": "Software Development Intern",
+      "duration": "Jan 2019 – Jun 2019",
+      "location": "Bengaluru, India",
+      "responsibilities": [
+        "Built CLI tools for testing SAP Fiori applications on mock servers.",
+        "Developed internal APIs with Node.js for team-wide usage in automation tasks.",
+        "Wrote scripts to automate UI testing using Puppeteer."
+      ]
+    }
+  ],
+  "projects": [
+    {
+      "name": "Revenue Insights Platform",
+      "description": "A client dashboard that visualizes customer acquisition, LTV, and churn data. Built real-time charts and filters for large datasets.",
+      "highlights": [
+        "Used React Query for efficient data fetching and caching.",
+        "Created drag-and-drop widgets for dashboard customization.",
+        "Built export to Excel and PDF feature using jsPDF."
+      ]
+    },
+    {
+      "name": "Fintrust Mobile App",
+      "description": "Developed mobile banking app modules including credit score, e-KYC, and loan management using React Native and AWS Amplify.",
+      "highlights": [
+        "Integrated Aadhaar-based authentication via external SDK.",
+        "Enabled biometric login via Face ID and Touch ID.",
+        "Improved user onboarding drop-off rate by 18% through UX improvements."
+      ]
+    },
+    {
+      "name": "DevOps Metrics Tracker",
+      "description": "Internal web app for visualizing build, deploy, and test metrics from Jenkins and GitHub Actions."
+    },
+    {
+      "name": "Resume Ranker AI",
+      "description": "Trained NLP model to classify and rank developer resumes using Python, Spacy, and Hugging Face Transformers."
+    }
+  ],
+  "education": {
+    "degree": "Bachelor of Technology",
+    "field": "Computer Science",
+    "institution": "Manipal Institute of Technology",
+    "duration": "2016 – 2020",
+    "grade": "9.0 CGPA"
+  },
+  "technical_skills": {
+    "languages": [
+      "JavaScript",
+      "TypeScript",
+      "Python",
+      "SQL",
+      "HTML",
+      "CSS"
+    ],
+    "frameworks_libraries": [
+      "React",
+      "React Native",
+      "Next.js",
+      "Redux Toolkit",
+      "Node.js",
+      "Tailwind CSS",
+      "Material UI"
+    ],
+    "tools": [
+      "Figma",
+      "VS Code",
+      "Expo",
+      "Postman",
+      "Jira",
+      "Storybook",
+      "Git"
+    ],
+    "infra_cloud": [
+      "AWS Amplify",
+      "Firebase",
+      "Vercel",
+      "Docker",
+      "Netlify"
+    ],
+    "testing": [
+      "Jest",
+      "React Testing Library",
+      "Playwright",
+      "Cypress"
+    ],
+    "devops": [
+      "GitHub Actions",
+      "CircleCI",
+      "Docker",
+      "Yarn Workspaces"
+    ],
+    "others": [
+      "REST APIs",
+      "GraphQL",
+      "Feature Flags",
+      "Accessibility (a11y)"
+    ]
+  },
+  "contact": {
+    "email": "rohan.malhotra.dev@gmail.com",
+    "phone": "+91-9876543210",
+    "linkedin": "https://linkedin.com/in/rohanmalhotra",
+    "github": "https://github.com/rohanmalhotra"
+  },
+  "hr_faqs": {
+    "strengths": [
+      "Clarity in UI architecture — I simplify complex flows into modular, readable code.",
+      "Strong communicator — I bridge product, design, and engineering with minimal friction.",
+      "Performance-first mindset — I obsess over load time, bundle size, and perceived speed."
+    ],
+    "challenges": [
+      "Working on legacy jQuery codebases in past roles without tests.",
+      "Tuning real-time polling with backend teams to avoid rate limits and latency."
+    ],
+    "career_goals": [
+      "Work closely with designers to craft intuitive interfaces.",
+      "Mentor newer devs and grow into a frontend architect role.",
+      "Build and open-source dev tools that improve DX (developer experience)."
+    ],
+    "why_hire_me": [
+      "I move fast but don't break things — I value quality, testing, and developer empathy.",
+      "I’ve worked across domains and teams, from banks to startups.",
+      "I bring calm, clarity, and curiosity to product engineering problems."
+    ],
+    "ideal_environment": [
+      "A focused product team that values autonomy, async workflows, and deep work.",
+      "People who care about naming, architecture, and great documentation."
+    ]
+  }
+}
